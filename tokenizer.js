@@ -1,3 +1,7 @@
+/**
+ * Tokenizer
+ */
+
 export const TokenTypes = {
     NUMBER: "NUMBER",
     IDENTIFIER: "IDENTIFIER",
